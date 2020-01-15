@@ -14,3 +14,11 @@
   mkdir -p how/deep/does/the/rabbit/hole/go
 ## at the same time
   mkdir tmp5 tmp6
+## call the last file you input in the command line
+  tail !$
+## print a specified number n of lines
+  head -n 20 filename.extension
+## print line number 
+  grep CATTAG -n 
+## look for string regardless of case
+  grep CATtag -i 
