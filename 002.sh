@@ -10,4 +10,7 @@
 ## -h turns storage numbers to kb/gb
 ## -t sorts by time
   ls -aFlht
-  
+## create a series of directories
+  mkdir -p how/deep/does/the/rabbit/hole/go
+## at the same time
+  mkdir tmp5 tmp6
