@@ -7,3 +7,4 @@
 ## cyberduck?
 ## can't use conda to update itself, but can do this
    conda update -n base -c defaults conda
+   conda update -n base conda
